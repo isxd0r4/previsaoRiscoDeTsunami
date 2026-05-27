@@ -2,7 +2,7 @@
 Este repositório contém um projeto de aprendizado de máquina focado em prever a ocorrência de tsunamis com base em dados de atividades sísmicas globais. O código realiza a extração dos dados, enálise exploratória, pré-processamento e o treinamento de três diferentes modelos de classificação, otimizando seus hiperparâmetros.
 
 ## Objetivo do projeto
-O objetivo principal é classificar se um terremoto resultará em um tsunami (variável alvo: <mark>tsunami</mark>).
+O objetivo principal é classificar se um terremoto resultará em um tsunami (variável alvo: `tsunami`).
 Para otimização dos modelos, a métrica prioritária foi o Recall. EM cenários de desastres naturais, minizar os falsos negativos (prever que não haverá tsunami quando, na verdade, haverá) é crítico para a segurança pública e emissão de alertas.
 
 ## Tecnologias e bibliotecas utilizadas
